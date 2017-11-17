@@ -1,3 +1,7 @@
 spring:
   main:
     show-banner: false
+    
+amazon: 
+  associate-id:  habuma-20
+  
